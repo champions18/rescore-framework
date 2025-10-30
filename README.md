@@ -1,6 +1,4 @@
-# rescore-framework
-AI-driven risk scoring framework for renewable energy assets
-#  REScore™ Framework
+#  REScore Framework
 ### AI-Driven Risk Quantification for Renewable Energy Assets  
 *A research–product initiative by Kritagya Sharma*
 
