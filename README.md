@@ -38,11 +38,5 @@ Kritagya Sharma, 2025.
 The work contributes to bridging financial and engineering risk modeling in the context of India’s and the world’s renewable-energy transition.
 
 
-@misc{rescore2025,
-  author       = {Kritagya Sharma},
-  title        = {REScore Framework: AI-driven risk quantification for renewable-energy assets},
-  year         = {2025},
-  publisher    = {GitHub},
-  howpublished = {\url{https://github.com/<champions18>/rescore-framework}},
-}
+
 
